@@ -1,6 +1,6 @@
-import imgA from "../assets/img3.jpg";
-import imgB from "../assets/img3.jpg";
-import imgC from "../assets/img3.jpg";
+import imgA from "../assets/alex.jpg";
+import imgB from "../assets/senay.jpg";
+import imgC from "../assets/fereso.jpg";
 
 const instructors = [
   {
@@ -40,8 +40,9 @@ export default function Instructors() {
               <img
                 src={instructor.image}
                 alt={instructor.name}
-                className="p-1 rounded-2xl w-2/4 h-60 object-cover"
+                className="w-80 h-60 object-fill rounded-2xl"
               />
+
               <div className="p-6">
                 <h3 className="text-4xl font-semibold mb-1 text-purple-800 dark:text-purple-400">
                   {instructor.name}

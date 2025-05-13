@@ -1,5 +1,5 @@
 import { useDarkMode } from "../context/DarkModeContext";
-import LightLogo from "../assets/2-removebg-preview.png";
+import LightLogo from "../assets/img3.png";
 import DarkLogo from "../assets/img2.png";
 
 export default function Navbar() {

@@ -1,6 +1,6 @@
-import seImage from '../assets/2Q== (1).jpg';
-import frontendImage from '../assets/Flux_Dev_A_modern_and_futuristic_workspace_setup_for_coding_ed_0.jpg';
-import backendImage from '../assets/Leonardo_Lightning_XL_A_wide_shoot_or_long_shoot_of_a_group_of_1.jpg';
+import seImage from '../assets/se.jpg';
+import frontendImage from '../assets/front.jpg';
+import backendImage from '../assets/back.jpg';
 
 export default function Courses() {
   return (
