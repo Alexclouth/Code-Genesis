@@ -16,7 +16,7 @@ export default function Footer() {
       <div
         className="absolute inset-0"
         style={{
-          background: 'linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9))',
+          background: 'linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2))',
         }}
       ></div>
 
